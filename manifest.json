@@ -1,0 +1,17 @@
+{
+  "name": "Financial Calories",
+  "short_name": "Financial Calories",
+  "description": "الرجيم المالي الذكي: سعرات مالية أسبوعية توصلك لهدف ادخارك",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#002624",
+  "theme_color": "#002624",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
