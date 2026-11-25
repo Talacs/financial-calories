@@ -24,3 +24,4 @@
 | `index.html` | التطبيق كامل، ومعه نموذج التوقع مضغوط بداخله |
 | `manifest.json` | يسمح بإضافة الموقع للشاشة الرئيسية في الجوال |
 | `icon.svg`, `icon-192.png`, `icon-512.png`, `apple-touch-icon.png` | أيقونات الموقع |
+| `.nojekyll` | يخلي GitHub Pages يعرض الملفات كما هي |
